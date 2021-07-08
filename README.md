@@ -6,9 +6,9 @@ Read Final Presentation here: https://github.com/LeiZhang0919/Book-Recommendatio
 
 Read Code here: https://github.com/LeiZhang0919/Book-Recommendation-System-Project/blob/main/Copy%20of%20SVD_Recs.ipynb
 
-                https://github.com/LeiZhang0919/Book-Recommendation-System-Project/blob/main/Seq_prediction_Skipgram_TextCNN_LSTM.ipynb
+https://github.com/LeiZhang0919/Book-Recommendation-System-Project/blob/main/Seq_prediction_Skipgram_TextCNN_LSTM.ipynb
                 
-                https://github.com/LeiZhang0919/Book-Recommendation-System-Project/blob/main/Copy%20of%20CollabFiltering.ipynb
+https://github.com/LeiZhang0919/Book-Recommendation-System-Project/blob/main/Copy%20of%20CollabFiltering.ipynb
                 
-                https://github.com/LeiZhang0919/Book-Recommendation-System-Project/blob/main/Copy%20of%20ContentFiltering.ipynb
+https://github.com/LeiZhang0919/Book-Recommendation-System-Project/blob/main/Copy%20of%20ContentFiltering.ipynb
                 
